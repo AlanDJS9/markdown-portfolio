@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# This is a test list
+- Thing 1
+- Stuff 2
+- Something 3
